@@ -1,4 +1,4 @@
-# 中科大健康打卡平台自动打卡脚本
+# 北京大学健康打卡平台自动打卡脚本
 
 ## 使用方法
 
@@ -22,7 +22,7 @@ python3 Autoreport.py data.json
 
 使用 F12 开发者工具抓包之后得到数据，按照 json 格式写入 `data.json` 中。
 
-1. 登录进入 `http://weixine.ustc.edu.cn/2020/`，打开开发者工具（Chrome 可以使用 F12 快捷键），选中 Network 窗口：
+1. 登录进入打卡网站，打开开发者工具（Chrome 可以使用 F12 快捷键），选中 Network 窗口：
 
 ![](./imgs/1.png)
 
